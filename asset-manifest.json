@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/hw-24-redux-thunk/static/css/main.9016c7bd.chunk.css",
+    "main.js": "/hw-24-redux-thunk/static/js/main.33bdb0d9.chunk.js",
+    "main.js.map": "/hw-24-redux-thunk/static/js/main.33bdb0d9.chunk.js.map",
+    "runtime-main.js": "/hw-24-redux-thunk/static/js/runtime-main.f530e7b5.js",
+    "runtime-main.js.map": "/hw-24-redux-thunk/static/js/runtime-main.f530e7b5.js.map",
+    "static/js/2.b1f90bae.chunk.js": "/hw-24-redux-thunk/static/js/2.b1f90bae.chunk.js",
+    "static/js/2.b1f90bae.chunk.js.map": "/hw-24-redux-thunk/static/js/2.b1f90bae.chunk.js.map",
+    "static/js/3.29a10e55.chunk.js": "/hw-24-redux-thunk/static/js/3.29a10e55.chunk.js",
+    "static/js/3.29a10e55.chunk.js.map": "/hw-24-redux-thunk/static/js/3.29a10e55.chunk.js.map",
+    "index.html": "/hw-24-redux-thunk/index.html",
+    "static/css/main.9016c7bd.chunk.css.map": "/hw-24-redux-thunk/static/css/main.9016c7bd.chunk.css.map",
+    "static/js/2.b1f90bae.chunk.js.LICENSE.txt": "/hw-24-redux-thunk/static/js/2.b1f90bae.chunk.js.LICENSE.txt",
+    "static/media/dry-eye.057f8ab5.jpg": "/hw-24-redux-thunk/static/media/dry-eye.057f8ab5.jpg",
+    "static/media/fletcher.408c0865.jpg": "/hw-24-redux-thunk/static/media/fletcher.408c0865.jpg",
+    "static/media/fletcher_homepage.ca4082a3.png": "/hw-24-redux-thunk/static/media/fletcher_homepage.ca4082a3.png",
+    "static/media/mickey.a3e8c77d.jpg": "/hw-24-redux-thunk/static/media/mickey.a3e8c77d.jpg",
+    "static/media/raymond.09ab1b03.jpg": "/hw-24-redux-thunk/static/media/raymond.09ab1b03.jpg",
+    "static/media/rosalind.8f60b061.jpg": "/hw-24-redux-thunk/static/media/rosalind.8f60b061.jpg",
+    "static/media/the-coach.56b5da8a.jpg": "/hw-24-redux-thunk/static/media/the-coach.56b5da8a.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f530e7b5.js",
+    "static/js/2.b1f90bae.chunk.js",
+    "static/css/main.9016c7bd.chunk.css",
+    "static/js/main.33bdb0d9.chunk.js"
+  ]
+}
