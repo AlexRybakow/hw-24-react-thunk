@@ -1,0 +1,60 @@
+.author-choice,
+#link-input,
+#message-input {
+  margin-top: 40px;
+  border: 1px solid;
+  border-color: yellowgreen;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding-bottom: 10px;
+  width: 300px;
+}
+
+.button {
+    padding-bottom: 10px;
+    padding-top: 10px;
+    width: 60%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+
+.input-form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+}
+
+.signup-page {
+  margin-top: 40px;
+  border: 1px solid;
+  border-color: yellowgreen;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding-bottom: 15px;
+}
+
+.form-title {
+  justify-content: center;
+  align-items: center;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+.user-info {
+  display: flex;
+  flex-direction: column;
+}
+.user-input {
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+.user-input:last-child {
+  margin-bottom: 10px;
+}
+
