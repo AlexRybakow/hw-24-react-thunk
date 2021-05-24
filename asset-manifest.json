@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/hw-24-redux-thunk/static/css/main.9016c7bd.chunk.css",
+    "main.css": "/hw-24-redux-thunk/static/css/main.37ae03a9.chunk.css",
     "main.js": "/hw-24-redux-thunk/static/js/main.33bdb0d9.chunk.js",
     "main.js.map": "/hw-24-redux-thunk/static/js/main.33bdb0d9.chunk.js.map",
     "runtime-main.js": "/hw-24-redux-thunk/static/js/runtime-main.f530e7b5.js",
@@ -10,7 +10,7 @@
     "static/js/3.29a10e55.chunk.js": "/hw-24-redux-thunk/static/js/3.29a10e55.chunk.js",
     "static/js/3.29a10e55.chunk.js.map": "/hw-24-redux-thunk/static/js/3.29a10e55.chunk.js.map",
     "index.html": "/hw-24-redux-thunk/index.html",
-    "static/css/main.9016c7bd.chunk.css.map": "/hw-24-redux-thunk/static/css/main.9016c7bd.chunk.css.map",
+    "static/css/main.37ae03a9.chunk.css.map": "/hw-24-redux-thunk/static/css/main.37ae03a9.chunk.css.map",
     "static/js/2.b1f90bae.chunk.js.LICENSE.txt": "/hw-24-redux-thunk/static/js/2.b1f90bae.chunk.js.LICENSE.txt",
     "static/media/dry-eye.057f8ab5.jpg": "/hw-24-redux-thunk/static/media/dry-eye.057f8ab5.jpg",
     "static/media/fletcher.408c0865.jpg": "/hw-24-redux-thunk/static/media/fletcher.408c0865.jpg",
@@ -23,7 +23,7 @@
   "entrypoints": [
     "static/js/runtime-main.f530e7b5.js",
     "static/js/2.b1f90bae.chunk.js",
-    "static/css/main.9016c7bd.chunk.css",
+    "static/css/main.37ae03a9.chunk.css",
     "static/js/main.33bdb0d9.chunk.js"
   ]
 }
